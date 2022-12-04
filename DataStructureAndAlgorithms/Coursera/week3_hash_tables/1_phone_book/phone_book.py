@@ -45,3 +45,10 @@ def process_queries(queries):
 if __name__ == '__main__':
     write_responses(process_queries(read_queries()))
 
+#%%
+
+print(hash('Baibainiubi'))
+
+print(hash('Baibainiubi'))
+
+#%%
